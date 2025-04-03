@@ -38,7 +38,7 @@ Ensure you have the following installed:
      ```
 4. Run the bot:
    ```sh
-   python bot.py
+   python telegram_bot.py
    ```
 
 ## Usage
